@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Wonders](www.wondersgroup.com)
+- 🔭 I'm Lane Charles, I'm a software developer, Currently living in Shanghai.
+- 🌱 I’m currently learning next.js, langchain.
 
 <!--
 **ALittleBrother/ALittleBrother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
